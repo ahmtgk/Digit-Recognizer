@@ -1,0 +1,2 @@
+# Digit-Recognizer
+YÜKSEK DÜZEY PROGRAMLAMA DERSİ PROJE ÖDEVİ
